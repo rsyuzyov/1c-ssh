@@ -6,3 +6,5 @@ __pycache__/
 agent_data/
 venv/
 .vscode/
+
+1c_config.json
